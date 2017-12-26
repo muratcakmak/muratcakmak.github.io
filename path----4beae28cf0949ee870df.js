@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{109:function(a,e){a.exports={data:{site:{siteMetadata:{title:"Oguzhan Cakmak",description:"Oguzhan Cakmak. Software Developer. Designed by HTML5 UP"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----4beae28cf0949ee870df.js.map
