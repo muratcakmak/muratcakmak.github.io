@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Oguzhan Cakmak',
     author: 'Oguzhan Cakmak',
-    description: 'Designed by HTML5 UP',
+    description: 'Oguzhan Cakmak. Software Developer. Designed by HTML5 UP',
   },
   pathPrefix: '/',
   plugins: [
